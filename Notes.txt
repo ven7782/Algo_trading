@@ -1,0 +1,16 @@
+Alpaca backtrader integration:
+https://github.com/alpacahq/alpaca-backtrader-api/tree/master
+
+Backtrader sample:
+https://medium.com/@pta.forwork/momentum-based-strategy-optimization-with-grid-search-on-backtrader-8c0d6cd1cc36
+
+API doc: https://alpaca.markets/sdks/python/getting_started.html
+
+RL based learner: https://github.com/theanh97/Deep-Reinforcement-Learning-with-Stock-Trading
+
+RL implementation: https://pypi.org/project/stable-baselines3/
+
+Paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996
+code: https://github.com/AI4Finance-Foundation/FinRL-Trading
+
+TA_LIB: https://github.com/cgohlke/talib-build/releases
