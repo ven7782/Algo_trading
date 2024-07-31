@@ -17,3 +17,5 @@ TA_LIB: https://github.com/cgohlke/talib-build/releases
 https://github.com/ta-lib/ta-lib-python
 
 https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Stock-Trading-DDPG-Algorithm-NIPS-2018
+
+https://github.com/AI4Finance-Foundation/FinRL-Tutorials
