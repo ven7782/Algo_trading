@@ -19,3 +19,11 @@ https://github.com/ta-lib/ta-lib-python
 https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Stock-Trading-DDPG-Algorithm-NIPS-2018
 
 https://github.com/AI4Finance-Foundation/FinRL-Tutorials
+
+Phase II: Stock Selection and Portfolio Allocation with Backtesting Results
+Stock Selection: https://github.com/AI4Finance-Foundation/FinML
+Portfolio Allocation: https://github.com/AI4Finance-Foundation/FinRL-Tutorials/blob/master/1-Introduction/FinRL_PortfolioAllocation_NeurIPS_2020.ipynb
+
+Phase III: Deploy a DRL agent to an online trading platform
+Deployment: Deploy strategies to online trading platforms such as Alpaca for paper trading
+https://github.com/AI4Finance-Foundation/FinRL/blob/master/examples/FinRL_PaperTrading_Demo.ipynb
