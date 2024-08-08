@@ -16,7 +16,7 @@ for ticker in tickers:
 
 
 # split the data into training, validation and test sets
-training_data_time_range = ('2009-01-01', '2015-12-31')
+training_data_time_range = ('2008-11-13', '2015-12-31')
 validation_data_time_range = ('2016-01-01', '2016-12-31')
 test_data_time_range = ('2017-01-01', '2020-05-08')
 

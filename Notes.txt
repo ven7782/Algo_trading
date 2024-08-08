@@ -20,6 +20,9 @@ https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Stock-T
 
 https://github.com/AI4Finance-Foundation/FinRL-Tutorials
 
+Main github: https://github.com/AI4Finance-Foundation/FinRL
+Documentation: https://finrl.readthedocs.io/en/latest/index.html
+
 Phase II: Stock Selection and Portfolio Allocation with Backtesting Results
 Stock Selection: https://github.com/AI4Finance-Foundation/FinML
 Portfolio Allocation: https://github.com/AI4Finance-Foundation/FinRL-Tutorials/blob/master/1-Introduction/FinRL_PortfolioAllocation_NeurIPS_2020.ipynb
@@ -27,3 +30,5 @@ Portfolio Allocation: https://github.com/AI4Finance-Foundation/FinRL-Tutorials/b
 Phase III: Deploy a DRL agent to an online trading platform
 Deployment: Deploy strategies to online trading platforms such as Alpaca for paper trading
 https://github.com/AI4Finance-Foundation/FinRL/blob/master/examples/FinRL_PaperTrading_Demo.ipynb
+
+https://github.com/tinker495/jax-baseline
