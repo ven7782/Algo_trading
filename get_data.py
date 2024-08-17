@@ -6,7 +6,8 @@ tickers = ['NVDA', 'QCOM']
 def get_data(tickers):
     stock_data = {}
     for ticker in tickers:
-        df = yf.download(ticker, start="2024-08-01", end="2024-08-02", interval="1m")
+        # df = yf.download(ticker, start="2024-08-01", end="2024-08-02", interval="1m")
+        df = yf.download(ticker, start="2007-01-01", end="2020-05-08")
         stock_data[ticker] = df
     return stock_data
 

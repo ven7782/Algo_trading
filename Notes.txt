@@ -32,3 +32,12 @@ Deployment: Deploy strategies to online trading platforms such as Alpaca for pap
 https://github.com/AI4Finance-Foundation/FinRL/blob/master/examples/FinRL_PaperTrading_Demo.ipynb
 
 https://github.com/tinker495/jax-baseline
+
+Financial news sentiment analysis:
+https://github.com/ProsusAI/finBERT
+
+Polygon data API package:
+https://github.com/pssolanki111/polygon
+https://polygon.readthedocs.io/en/latest/Getting-Started.html
+
+https://github.com/austin-starks
