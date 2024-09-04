@@ -41,3 +41,8 @@ https://github.com/pssolanki111/polygon
 https://polygon.readthedocs.io/en/latest/Getting-Started.html
 
 https://github.com/austin-starks
+
+Decision Transformers:
+https://github.com/ra9hur/Decision-Transformers-For-Trading
+
+Hugging Face tutorial: https://huggingface.co/blog/train-decision-transformers
